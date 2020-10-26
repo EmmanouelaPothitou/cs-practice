@@ -40,4 +40,4 @@ LMLMLMLMM\
 MMRMMRMRRM\
 Test output:\
 1 3 N\
-5 1 E\
+5 1 E
